@@ -1,0 +1,27 @@
+{
+    "name": "UnityDevKit.Interactables",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cb94b7c895e4fc043b475fea0939b6e2",
+        "GUID:b2dac353fed5e394bb62a82ce6af9e00",
+        "GUID:dc70f8e9ea65e11499fb5f34836fdf3d",
+        "GUID:78c22fe21ae16ca4d8e2e73ba0f92c00",
+        "GUID:7fe5a1da3b2214f4a8e65adbab9ce2a0",
+        "GUID:48c9f6afdac61634db0e0f241c7d4d51",
+        "GUID:86242bc0f06054044b581e8dfa34a1e2",
+        "GUID:ef9a4b91a98904e44b13617ed94763c5",
+        "GUID:d539d39fb48711841b846c6c7fe48b55",
+        "GUID:b1e94201eb5e0aa4f881007eb4c9217c",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:4926aeaeb3702404990fa333b5823ad6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

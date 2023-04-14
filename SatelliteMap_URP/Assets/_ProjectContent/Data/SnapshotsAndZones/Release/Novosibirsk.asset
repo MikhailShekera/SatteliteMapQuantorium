@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84728180193dd59479516a54263408ba, type: 3}
+  m_Name: Novosibirsk
+  m_EditorClassIdentifier: 
+  zoneName: "\u041D\u043E\u0432\u043E\u0441\u0438\u0431\u0438\u0440\u0441\u043A"
+  images:
+  - image: {fileID: 21300000, guid: 294d2461c539ff348b98d9194649607b, type: 3}
+    processedImage: {fileID: 0}
+    spriteName: S.00
+  - image: {fileID: 21300000, guid: e3d06548b84414942a466e452a46e003, type: 3}
+    processedImage: {fileID: 0}
+    spriteName: S.01
+  - image: {fileID: 21300000, guid: 91b0d8563815f8742a3dff18df60aa77, type: 3}
+    processedImage: {fileID: 0}
+    spriteName: S.02
+  - image: {fileID: 21300000, guid: e223d27d3921a564ca2257ac6c5652f4, type: 3}
+    processedImage: {fileID: 0}
+    spriteName: S.03
+  - image: {fileID: 21300000, guid: ab9c0d82b782cc84ba1ba85a8d5bdb7b, type: 3}
+    processedImage: {fileID: 0}
+    spriteName: S.01(2aug)
+  - image: {fileID: 21300000, guid: dd3ea23f05f8b5a4db5b177309613b01, type: 3}
+    processedImage: {fileID: 0}
+    spriteName: 31July
+  - image: {fileID: 21300000, guid: 29c94162243706e4b8dcbcc6cc6deb56, type: 3}
+    processedImage: {fileID: 0}
+    spriteName: Tomsk
+  - image: {fileID: 21300000, guid: 60701902044f9084e973ac404a4082b6, type: 3}
+    processedImage: {fileID: 0}
+    spriteName: 9July - 0
+  - image: {fileID: 21300000, guid: 29102f6277dcc2a418c0c30e1f61165c, type: 3}
+    processedImage: {fileID: 0}
+    spriteName: 9July - 1

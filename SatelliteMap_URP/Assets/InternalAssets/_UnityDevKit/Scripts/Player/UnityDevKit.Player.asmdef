@@ -1,0 +1,28 @@
+{
+    "name": "UnityDevKit.Player",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cb94b7c895e4fc043b475fea0939b6e2",
+        "GUID:ed551d72105e5bc4fbae6177b385bebc",
+        "GUID:dc70f8e9ea65e11499fb5f34836fdf3d",
+        "GUID:78c22fe21ae16ca4d8e2e73ba0f92c00",
+        "GUID:7fe5a1da3b2214f4a8e65adbab9ce2a0",
+        "GUID:86242bc0f06054044b581e8dfa34a1e2",
+        "GUID:b1e94201eb5e0aa4f881007eb4c9217c",
+        "GUID:d539d39fb48711841b846c6c7fe48b55",
+        "GUID:4926aeaeb3702404990fa333b5823ad6",
+        "GUID:48c9f6afdac61634db0e0f241c7d4d51",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:f9f9ed7b08923f94095d7abff136051a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84728180193dd59479516a54263408ba, type: 3}
+  m_Name: LeningradRegion
+  m_EditorClassIdentifier: 
+  zoneName: "\u041B\u0435\u043D\u0438\u043D\u0433\u0440\u0430\u0434\u0441\u043A\u0430\u044F
+    \u043E\u0431\u043B\u0430\u0441\u0442\u044C"
+  images:
+  - image: {fileID: 21300000, guid: a5d30e5fe628b7142affa5d2c9ad45b1, type: 3}
+    processedImage: {fileID: 0}
+    spriteName: "\u0417\u043E\u043D\u0430 1"
+  - image: {fileID: 21300000, guid: ef16bfc98c5556241aef0adecd612908, type: 3}
+    processedImage: {fileID: 0}
+    spriteName: "\u0417\u043E\u043D\u0430 2"
+  - image: {fileID: 21300000, guid: 75524cb5321c92d43ae51731f6590eae, type: 3}
+    processedImage: {fileID: 0}
+    spriteName: "\u0417\u043E\u043D\u0430 3"

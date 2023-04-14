@@ -1,0 +1,26 @@
+{
+    "name": "UnityDevKit.InteractionSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:48c9f6afdac61634db0e0f241c7d4d51",
+        "GUID:b2dac353fed5e394bb62a82ce6af9e00",
+        "GUID:cb94b7c895e4fc043b475fea0939b6e2",
+        "GUID:76ea43576436b744dab76a071b50986a",
+        "GUID:144bbae196f1b614290722305e68ae7b",
+        "GUID:b1e94201eb5e0aa4f881007eb4c9217c",
+        "GUID:d539d39fb48711841b846c6c7fe48b55",
+        "GUID:4926aeaeb3702404990fa333b5823ad6",
+        "GUID:7fe5a1da3b2214f4a8e65adbab9ce2a0",
+        "GUID:f8fbcbc3b263580469312e495c4f098e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

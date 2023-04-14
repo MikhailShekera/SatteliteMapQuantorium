@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84728180193dd59479516a54263408ba, type: 3}
+  m_Name: Perm
+  m_EditorClassIdentifier: 
+  zoneName: "\u041F\u0435\u0440\u043C\u044C"
+  images:
+  - image: {fileID: 21300000, guid: b5ab4a406d3f2124eac87d3fe372e2ea, type: 3}
+    processedImage: {fileID: 0}
+    spriteName: "\u0417\u043E\u043D\u0430 1"
+  - image: {fileID: 21300000, guid: 21a6301d8cec0eb4db41ce292a7d07e2, type: 3}
+    processedImage: {fileID: 0}
+    spriteName: "\u0417\u043E\u043D\u0430 2"
+  - image: {fileID: 21300000, guid: 909b647304ed3db4bbd781b89542ec3f, type: 3}
+    processedImage: {fileID: 0}
+    spriteName: "\u0417\u043E\u043D\u0430 3"
+  - image: {fileID: 21300000, guid: 7e2eb73fe8b392c4b93475d3747b6b4e, type: 3}
+    processedImage: {fileID: 0}
+    spriteName: "\u0417\u043E\u043D\u0430 4"
+  - image: {fileID: 21300000, guid: 0a9e7e4cb357b6c4f80fd7c4803d989f, type: 3}
+    processedImage: {fileID: 0}
+    spriteName: "\u0417\u043E\u043D\u0430 5"
+  - image: {fileID: 21300000, guid: cac6246fa04497a4bb8d416fc5345272, type: 3}
+    processedImage: {fileID: 0}
+    spriteName: "\u0417\u043E\u043D\u0430 6"

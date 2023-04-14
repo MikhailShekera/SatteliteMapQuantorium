@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38018a1cd55e4379b79521ab1e0ebfa8, type: 3}
+  m_Name: InteractableLaserData
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 655760862119349177, guid: 5aa4fa9deb91b2044a0aa98b916f7748, type: 3}
+  maxRayDistance: 100
+  thickness: 0.005
+  clickThickness: 0.02
+  commonMaterial: {fileID: 2100000, guid: 3aa242b2c4bb6da4eb9603b201df66c2, type: 2}
+  clickMaterial: {fileID: 2100000, guid: 7cbf59c8b7ad60143bcc9ff770a560fa, type: 2}
+  layerMask:
+    serializedVersion: 2
+    m_Bits: 64

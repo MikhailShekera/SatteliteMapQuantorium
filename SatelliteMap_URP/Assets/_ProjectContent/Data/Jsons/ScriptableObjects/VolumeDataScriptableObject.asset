@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3637d1c12e6cc6e49b58bc0d33b16558, type: 3}
+  m_Name: VolumeDataScriptableObject
+  m_EditorClassIdentifier: 
+  fileName: VolumeData
+  data: []
+  defaultScriptableObject: {fileID: 11400000, guid: f62a6ba9c3bd5e340b7f0e338fa6aa4f,
+    type: 2}
+  valueRange:
+    Min: 0
+    Max: 1
